@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <a href="https://kubesphere.io/"><img src="docs/images/kubesphere-icon.gif" alt="banner" width="200px"></a>
 </p>
@@ -207,3 +208,6 @@ KubeSphere is a member of CNCF and a <a href="https://www.cncf.io/certification/
 </a>, which enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--kubesphere">CNCF CLOUD NATIVE Landscape.
 </a>
 </p>
+=======
+# kubespheregis
+>>>>>>> origin/main
