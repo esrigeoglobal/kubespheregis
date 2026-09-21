@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
 <a href="https://kubesphere.io/"><img src="docs/images/kubesphere-icon.gif" alt="banner" width="200px"></a>
 </p>
@@ -8,7 +7,7 @@
 </p>
 
 <p align=center>
-<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://goreportcard.com/badge/github.com/kubesphere/kubesphere" alt="A+"></a>
+<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://miro.medium.com/1*6aiG8217Vy9kEpF5k9ag4Q.gif" alt="A+"></a>
 <a href="https://hub.docker.com/r/kubesphere/ks-installer"><img src="https://img.shields.io/docker/pulls/kubesphere/ks-installer"></a>
 <a href="https://github.com/kubesphere/kubesphere/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22"><img src="https://img.shields.io/github/issues/kubesphere/kubesphere/good%20first%20issue?logo=github" alt="good first issue"></a>
 <a href="https://twitter.com/intent/follow?screen_name=KubeSphere"><img src="https://img.shields.io/twitter/follow/KubeSphere?style=social" alt="follow on Twitter"></a>
@@ -35,8 +34,8 @@ check [What is KubeSphere](https://kubesphere.io/docs/introduction/what-is-kubes
 
 <table>
   <tr>
-      <td width="50%" align="center"><b>Workbench</b></td>
-      <td width="50%" align="center"><b>Project Resources</b></td>
+      <td width="50%" align="center"><h4><b>Workbench</b></h4></td>
+      <td width="50%" align="center"><h4><b>Project Resources</b></h4></td>
   </tr>
   <tr>
      <td><img src="docs/images/console.png"/></td>
@@ -210,4 +209,3 @@ KubeSphere is a member of CNCF and a <a href="https://www.cncf.io/certification/
 </p>
 =======
 # kubespheregis
->>>>>>> origin/main
