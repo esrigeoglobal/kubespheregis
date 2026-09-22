@@ -6,13 +6,13 @@
 <b>The container platform tailored for <i>Kubernetes multi-cloud, datacenter, and edge</i> management</b>
 </p>
 
-<p align=center>
-<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://miro.medium.com/1*6aiG8217Vy9kEpF5k9ag4Q.gif" alt="A+"></a>
-<a href="https://hub.docker.com/r/kubesphere/ks-installer"><img src="https://img.shields.io/docker/pulls/kubesphere/ks-installer"></a>
+<blockquote align=center>
+<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://miro.medium.com/1*6aiG8217Vy9kEpF5k9ag4Q.gif" alt="A+"></blockquote>
+<a align=center  href="https://hub.docker.com/r/kubesphere/ks-installer"><img src="https://img.shields.io/docker/pulls/kubesphere/ks-installer"></a>
 <a href="https://github.com/kubesphere/kubesphere/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22"><img src="https://img.shields.io/github/issues/kubesphere/kubesphere/good%20first%20issue?logo=github" alt="good first issue"></a>
-<a href="https://twitter.com/intent/follow?screen_name=KubeSphere"><img src="https://img.shields.io/twitter/follow/KubeSphere?style=social" alt="follow on Twitter"></a>
-<a href="https://join.slack.com/t/kubesphere/shared_invite/zt-2b4t6rdb4-ico_4UJzCln_S2c1pcrIpQ"><img src="https://img.shields.io/badge/Slack-2000%2B-blueviolet?logo=slack&amp;logoColor=white"></a>
-<a href="https://www.youtube.com/channel/UCyTdUQUYjf7XLjxECx63Hpw"><img src="https://img.shields.io/youtube/channel/subscribers/UCyTdUQUYjf7XLjxECx63Hpw?style=social"></a>
+<a  align=center href="https://twitter.com/intent/follow?screen_name=KubeSphere"><img src="https://img.shields.io/twitter/follow/KubeSphere?style=social" alt="follow on Twitter"></a>
+<a align=center href="https://join.slack.com/t/kubesphere/shared_invite/zt-2b4t6rdb4-ico_4UJzCln_S2c1pcrIpQ"><img src="https://img.shields.io/badge/Slack-2000%2B-blueviolet?logo=slack&amp;logoColor=white"></a>
+<a align=center href="https://www.youtube.com/channel/UCyTdUQUYjf7XLjxECx63Hpw"><img src="https://img.shields.io/youtube/channel/subscribers/UCyTdUQUYjf7XLjxECx63Hpw?style=social"></a>
 </p>
 
 
@@ -42,8 +42,8 @@ check [What is KubeSphere](https://kubesphere.io/docs/introduction/what-is-kubes
      <td><img src="docs/images/project.png"/></td>
   </tr>
   <tr>
-      <td width="50%" align="center"><b>CI/CD Pipeline</b></td>
-      <td width="50%" align="center"><b>App Store</b></td>
+      <td width="50%" align="center"><h4><b>CI/CD Pipeline</b></h4></td>
+      <td width="50%" align="center"><h4><b>App Store</b></h4></td>
   </tr>
   <tr>
      <td><img src="docs/images/cicd.png"/></td>
@@ -207,5 +207,12 @@ KubeSphere is a member of CNCF and a <a href="https://www.cncf.io/certification/
 </a>, which enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--kubesphere">CNCF CLOUD NATIVE Landscape.
 </a>
 </p>
+<footer>
+<p align=center>
+<a href="www.k8s.com"><img src="https://blog.desdelinux.net/kubernetes-1-18-llega-con-mejoras-depuracion-de-kubectl-seguridad-y-mucho-mas/">
+</a> 
+</p>
+</footer> 
+
 =======
 # kubespheregis
