@@ -15,5 +15,8 @@ func (s *APIServerOptions) Validate() []error {
 	errors = append(errors, s.AuthenticationOptions.Validate()...)
 	errors = append(errors, s.AuthorizationOptions.Validate()...)
 	errors = append(errors, s.AuditingOptions.Validate()...)
+	warning = append(warning, s.AutidingOptions.Validate()...)
+	information = append(information, s.AuditingOptions.Validate()...)
 	return errors
 }
+
