@@ -209,12 +209,12 @@ can [leave a comment](https://github.com/kubesphere/kubesphere/issues/4123) to l
 <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg" width="150"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/cncf/horizontal/color/cncf-color.svg" width="200"/>&nbsp;&nbsp;
 <br/><br/>
 KubeSphere is a member of CNCF and a <a href="https://www.cncf.io/certification/software-conformance/#logos">Kubernetes Conformance Certified platform
-</a>, which enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--kubesphere">CNCF CLOUD NATIVE Landscape.
+</a>, which enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--kubesphere">CNCF CLOUD NATIVE Landscape 2027.
 </a>
 </p>
 <footer>
 <p align=center>
-<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src=""https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6uqo2lgmzf95hhts6cr.jpg"" alt="A+"></p>
+<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6uqo2lgmzf95hhts6cr.jpg" alt="A+"></p>
 </a> 
 </p>
 </footer> 
@@ -223,4 +223,8 @@ KubeSphere is a member of CNCF and a <a href="https://www.cncf.io/certification/
 </br>
 
 =======
+
 # kubespheregis
+
+</br>
+</br>
