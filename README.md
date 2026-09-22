@@ -114,9 +114,13 @@ Isolated workspaces with role-based access control ensure secure resource sharin
 <details>
   <summary><b>🧠 GPU Workloads Scheduling and Monitoring</b></summary>
   Create GPU workloads on the GUI, schedule GPU resources, and manage GPU resource quotas by tenant.
-  </details>
+</details>
 
-## Architecture
+<details>
+ <summary><b>Kubectl</b></summary>
+ Run the following commands to install KubeSphere on an existing Kubernetes cluste## Architecture.
+ </summary> 
+</details>
 
 KubeSphere 4.x adopts a microkernel + extension components architecture ([codename LuBan](https://kubesphere.io/docs/v4.1/01-intro/01-introduction/)). The core part (KubeSphere Core) only includes the essential basic functions required for system operation, with independent functional modules split and provided in the form of extension components. Users can dynamically manage the extension components during system operation. With the extension capabilities, KubeSphere can support more application scenarios and meet the needs of different users.
 
