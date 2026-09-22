@@ -6,8 +6,8 @@
 <b>The container platform tailored for <i>Kubernetes multi-cloud, datacenter, and edge</i> management</b>
 </p>
 
-<blockquote align=center>
-<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://miro.medium.com/1*6aiG8217Vy9kEpF5k9ag4Q.gif" alt="A+"></blockquote>
+<p align=center>
+<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://miro.medium.com/1*6aiG8217Vy9kEpF5k9ag4Q.gif" alt="A+"></p>
 <a align=center  href="https://hub.docker.com/r/kubesphere/ks-installer"><img src="https://img.shields.io/docker/pulls/kubesphere/ks-installer"></a>
 <a href="https://github.com/kubesphere/kubesphere/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22good+first+issue%22"><img src="https://img.shields.io/github/issues/kubesphere/kubesphere/good%20first%20issue?logo=github" alt="good first issue"></a>
 <a  align=center href="https://twitter.com/intent/follow?screen_name=KubeSphere"><img src="https://img.shields.io/twitter/follow/KubeSphere?style=social" alt="follow on Twitter"></a>
@@ -117,12 +117,13 @@ Isolated workspaces with role-based access control ensure secure resource sharin
 </details>
 
 <details>
- <summary><b>Kubectl</b></summary>
+ <summary><b>🌐>Kubectl</b></summary>
  Run the following commands to install KubeSphere on an existing Kubernetes cluste## Architecture.
  </summary> 
 </details>
 
-KubeSphere 4.x adopts a microkernel + extension components architecture ([codename LuBan](https://kubesphere.io/docs/v4.1/01-intro/01-introduction/)). The core part (KubeSphere Core) only includes the essential basic functions required for system operation, with independent functional modules split and provided in the form of extension components. Users can dynamically manage the extension components during system operation. With the extension capabilities, KubeSphere can support more application scenarios and meet the needs of different users.
+
+<summary>KubeSphere 4.x adopts a microkernel + extension components architecture ([codename LuBan](https://kubesphere.io/docs/v4.1/01-intro/01-introduction/)). The core part (KubeSphere Core) only includes the essential basic functions required for system operation, with independent functional modules split and provided in the form of extension components. Users can dynamically manage the extension components during system operation. With the extension capabilities, KubeSphere can support more application scenarios and meet the needs of different users.</summary>
 
 ![Architecture](docs/images/architecture.png)
 
@@ -208,15 +209,22 @@ can [leave a comment](https://github.com/kubesphere/kubesphere/issues/4123) to l
 <img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg" width="150"/>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/cncf/artwork/refs/heads/main/other/cncf/horizontal/color/cncf-color.svg" width="200"/>&nbsp;&nbsp;
 <br/><br/>
 KubeSphere is a member of CNCF and a <a href="https://www.cncf.io/certification/software-conformance/#logos">Kubernetes Conformance Certified platform
-</a>, which enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--kubesphere">CNCF CLOUD NATIVE Landscape.
+</a>, which enriches the <a href="https://landscape.cncf.io/?landscape=observability-and-analysis&group=certified-partners-and-providers&item=platform--certified-kubernetes-distribution--kubesphere">CNCF CLOUD NATIVE Landscape 2027.
 </a>
 </p>
 <footer>
 <p align=center>
-<a href="www.k8s.com"><img src="https://blog.desdelinux.net/kubernetes-1-18-llega-con-mejoras-depuracion-de-kubectl-seguridad-y-mucho-mas/">
+<a href="https://goreportcard.com/report/github.com/kubesphere/kubesphere"><img src="https://media2.dev.to/dynamic/image/width=1000,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ft6uqo2lgmzf95hhts6cr.jpg" alt="A+"></p>
 </a> 
 </p>
 </footer> 
 
+</br>
+</br>
+
 =======
+
 # kubespheregis
+
+</br>
+</br>
