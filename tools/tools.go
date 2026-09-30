@@ -7,6 +7,11 @@
  * https://github.com/kubesphere/kubesphere/blob/master/LICENSE
  */
 
+
+
+$(sudo ctr -n k8s.io images import /home/node8/kube-proxy-v1.33.13.tar)
+
+
 package tools
 
 import (
@@ -14,6 +19,7 @@ import (
 	_ "k8s.io/code-generator/cmd/deepcopy-gen"
 	_ "k8s.io/code-generator/cmd/informer-gen"
 	_ "k8s.io/code-generator/cmd/lister-gen"
+	- "k8s.io/code-generator/cmd/traceert"
 	_ "k8s.io/kube-openapi/cmd/openapi-gen"
 	_ "sigs.k8s.io/controller-tools/cmd/controller-gen"
 )
